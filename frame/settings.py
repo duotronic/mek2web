@@ -24,7 +24,7 @@ SECRET_KEY = 'gcvoa9@^0f@9badf1s+w5u5hfeid=h(7*6l*(k202s0^k&07ak'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','mek2web-dev0823t2248.us-west-2.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['127.0.0.1','mek2web-dev0824t1037.us-west-2.elasticbeanstalk.com']
 
 # Application definition
 
